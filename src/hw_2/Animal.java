@@ -1,3 +1,5 @@
+package hw_2;
+
 //HW_2
 //tesk 1
 public class Animal {
@@ -32,7 +34,7 @@ public class Animal {
 
     @Override
     public String toString() {
-        return "Animal{" +
+        return "hw_2.Animal{" +
                 "speciesName='" + speciesName + '\'' +
                 ", weight=" + weight +
                 ", limbsNumber=" + limbsNumber +

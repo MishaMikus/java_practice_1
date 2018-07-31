@@ -1,3 +1,5 @@
+package hw_3;
+
 import java.util.*;
 
 //HW_3_2

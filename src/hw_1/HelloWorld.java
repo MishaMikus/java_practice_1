@@ -1,3 +1,4 @@
+package hw_1;
 
 //HW_1_1
 public class HelloWorld {

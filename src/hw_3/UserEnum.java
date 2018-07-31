@@ -1,4 +1,4 @@
-import java.util.Arrays;
+package hw_3;
 
 //HW_3_3
 public enum UserEnum {
@@ -15,7 +15,7 @@ public enum UserEnum {
     }
 
     public String info() {
-        return "UserEnum{" +
+        return "hw_3.UserEnum{" +
                 "userName='" + userName + '\'' +
                 ", pass='" + pass + '\'' +
                 '}';
