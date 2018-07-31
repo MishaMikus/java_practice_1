@@ -1,8 +1,10 @@
-package hw_2;
+package hw_1;
 
+/*
+2. Define any int variable and create program , which print variable less then 10(if it is true) or variable more then 10(if it is true)
+*/
 import java.util.Scanner;
 
-//HW_2_2
 public class DefineVariable {
     public static void main(String[] args) {
         //1.from arguments

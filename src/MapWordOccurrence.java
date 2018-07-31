@@ -1,6 +1,10 @@
 import java.util.HashMap;
 import java.util.Map;
 
+/*
+get match number for each words in text
+ */
+
 public class MapWordOccurrence {
     public static void main(String[] args) {
         String text = "My name is Alex Alex is is ";

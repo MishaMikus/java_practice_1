@@ -2,7 +2,10 @@ package hw_3;
 
 import java.util.*;
 
-//HW_3_2
+/*
+2. Create some collection with implementation of List interface, also with random numbers inside, try to sort current collection
+*/
+
 public class RandomCollection {
     private static final int DEFAULT_ARRAY_LENGTH = 10;
     private static final int DEFAULT_MAX_RANDOM_INT = 9999;

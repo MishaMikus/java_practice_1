@@ -3,6 +3,9 @@ import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
 
+/*
+implement method which can detect list duplicates
+ */
 public class ListDuplicates {
     public static void main(String[] args) {
 

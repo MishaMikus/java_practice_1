@@ -1,3 +1,8 @@
+
+/*
+get list of simple numbers
+*/
+
 public class SimpleNumbers {
 
     public static void main(String[] args) {

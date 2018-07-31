@@ -1,3 +1,8 @@
+
+/*
+found min and max value in 2d array
+ */
+
 public class MinMax2D {
     public static int min(int[][] data) {
         int min = Integer.MAX_VALUE;

@@ -1,6 +1,10 @@
 package hw_1;
 
-//HW_1_3 and HW_1_4
+/*
+3. Create program , which print 0…100  numbers in console(using FOR loop)
+4. Create program , which print 100…0  numbers in console(using WHILE loop)
+*/
+
 public class Loop {
     public static void main(String[] args) {
         forLoop(10);

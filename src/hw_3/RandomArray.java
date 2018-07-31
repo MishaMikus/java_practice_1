@@ -3,7 +3,10 @@ package hw_3;
 import java.util.Arrays;
 import java.util.Random;
 
-//HW_3_1
+/*
+1. Create an array with random numbers inside, try to sort current array
+*/
+
 public class RandomArray {
     private static final int DEFAULT_ARRAY_LENGTH = 10;
     private static final int DEFAULT_MAX_RANDOM_INT = 9999;

@@ -2,7 +2,9 @@ package hw_3;
 
 import java.util.Scanner;
 
-//HW_3_5
+/*
+5. input some value. if value  < 0 - throw runtime exception with custom message, else output SQRT for that
+*/
 public class TestExceptionSQRT {
 
     public static void main(String[] args) {

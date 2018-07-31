@@ -1,3 +1,8 @@
+
+/*
+get fibonacci row
+*/
+
 public class Fibonacci {
     public static void main(String[] args) {
         int[] res = fibonacci(10);

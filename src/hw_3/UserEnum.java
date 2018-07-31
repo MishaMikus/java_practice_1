@@ -1,6 +1,16 @@
 package hw_3;
 
-//HW_3_3
+/*
+3. Create "class enum" User, create a few user roles inside, every enum must have two parameters:
+	1. user name,
+	2. user pass
+
+4. Create three methods:
+	1. startPrint() - should print: "Start printing user credentials" (use annotation @Deprecated with),
+	2. printUserCredentials() - should print all credential of priviusly created users roles (use annotation @Test with),
+	3. finishPrint() - should print: “Finish printing user credentials" (use annotation @After with)
+*/
+
 public enum UserEnum {
     ADMIN("misha", "mishaPASS"),
     USER("vasja", "qwer"),
