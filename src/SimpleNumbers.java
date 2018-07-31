@@ -6,7 +6,7 @@ public class SimpleNumbers {
     }
 
     private static void printSimpleUpTo(int upTo) {
-        System.out.println("Simple numbers on range 0.."+upTo);
+        System.out.println("Simple numbers on range 0.." + upTo);
         for (int i = 0; i <=upTo; i++) {
             if(isSimpleNumber(i)){
                 System.out.println(i);
