@@ -1,10 +1,20 @@
 package extra_lib;
 
 import java.io.Serializable;
+import java.util.Date;
 
 public class User implements Serializable {
     private String name;
     private Integer age;
+    private Date birth=new Date();
+
+    public Date getBirth() {
+        return birth;
+    }
+
+    public void setBirth(Date birth) {
+        this.birth = birth;
+    }
 
     public User() {
     }
@@ -35,6 +45,7 @@ public class User implements Serializable {
         return "User{" +
                 "name='" + name + '\'' +
                 ", age=" + age +
+                ", birth=" + birth +
                 '}';
     }
 }
