@@ -1,4 +1,4 @@
-package hw_3;
+package java_basics.hw_3;
 
 import java.util.Arrays;
 import java.util.Random;

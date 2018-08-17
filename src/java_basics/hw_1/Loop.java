@@ -1,4 +1,4 @@
-package hw_1;
+package java_basics.hw_1;
 
 /*
 3. Create program , which print 0…100  numbers in console(using FOR loop)

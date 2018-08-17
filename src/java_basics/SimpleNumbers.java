@@ -1,4 +1,4 @@
-
+package java_basics;
 /*
 get list of simple numbers
 */

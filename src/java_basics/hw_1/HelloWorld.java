@@ -1,4 +1,4 @@
-package hw_1;
+package java_basics.hw_1;
 
 /*
 1. Create program , which print “Hello World!!” in console

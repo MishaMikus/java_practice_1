@@ -1,4 +1,4 @@
-package hw_3;
+package java_basics.hw_3;
 
 /*
 3. Create "class enum" User, create a few user roles inside, every enum must have two parameters:
@@ -25,7 +25,7 @@ public enum UserEnum {
     }
 
     public String info() {
-        return "hw_3.UserEnum{" +
+        return "java_basics.hw_3.UserEnum{" +
                 "userName='" + userName + '\'' +
                 ", pass='" + pass + '\'' +
                 '}';

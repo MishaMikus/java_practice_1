@@ -1,3 +1,4 @@
+package java_basics;
 
 /*
 get factorial

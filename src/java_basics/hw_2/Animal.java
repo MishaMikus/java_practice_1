@@ -1,4 +1,4 @@
-package hw_2;
+package java_basics.hw_2;
 
 /*
 1. Describe a class (Animal), use :
@@ -42,7 +42,7 @@ public class Animal {
 
     @Override
     public String toString() {
-        return "hw_2.Animal{" +
+        return "java_basics.hw_2.Animal{" +
                 "speciesName='" + speciesName + '\'' +
                 ", weight=" + weight +
                 ", limbsNumber=" + limbsNumber +

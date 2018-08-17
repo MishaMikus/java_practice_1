@@ -1,4 +1,4 @@
-/*
+package java_basics;/*
 Task description
  Create class Student that has following fields: name, sex, group, language, year.
  Student can belong to one of three-four groups, know one to five languages, study 1-4 year. Names are mostly unique. Sex is an enum

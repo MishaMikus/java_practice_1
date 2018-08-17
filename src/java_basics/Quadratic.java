@@ -1,6 +1,6 @@
-
+package java_basics;
 /*
-solve Quadratic equation
+solve java_basics.Quadratic equation
  */
 
 public class Quadratic {

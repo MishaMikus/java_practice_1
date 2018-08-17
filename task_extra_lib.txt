@@ -1,0 +1,46 @@
+#1 (extra lib)
+1 Try to create file and write a string: "ELEKS QA Camp" in, then try to read attendant string from
+2 Create an object Human with age and name like states, try to write and read object of current class into file and vise versa in java
+3 Create properties file: "config.properties", set into properties for browser configuration like: "browser_name" and "brovser_version“
+4 Create XML file: "Customer", try to write the object into file and also try to read it back to java
+5 Create an array of numbers, convert it to collection of List, using streams try to find min, max and average value of collection, also try to sort and filter collection
+
+#2 (test ng)
+1 Create 6 simple unit tests for calculator(+, -, /, *).
+	• 3 failure and 3 success
+	• Create 2 groups
+	• Add some pre- and post- condition
+	• Use separate test class for your tests
+	• You don’t need main function in tests (entry point)
+2 Create testng.xml which should execute your test class
+3 Create testng2.xml which should execute your group
+4 Create test with parameters from testng.xml suite
+5 Create data driven test: function sum(int a, int b) which reads input data from an array
+
+#3 (maven)
+1 Create maven project and move tests you created before (in TestNG practice) into it.
+2 Add few dependencies into pom.xml
+	• TestNG dependency
+	• JodaTime dependency
+	• Extract versions into property
+3 Transfer parameters from maven into tests
+
+
+		//make CustomClass instance
+		//print it
+
+        //save object to file as object
+        //load object from file as object
+        //print it
+
+        //save object to file as text
+
+        //save it to xml
+        //load as test and print it
+        //load it form xml
+        //print it
+
+        //save it to jason
+        //load as test and print it
+        //load it form jason
+        //print it
